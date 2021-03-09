@@ -114,5 +114,5 @@ public class UsingSqliteWrapper {
 
 ## Tools
 
-[JUnit 5](https://junit.org/junit5/) - A popular unit testing framework for the Java programming language.
-[Sqlite JDBC Driver](https://github.com/xerial/sqlite-jdbc) - A library for accessing and creating SQLite database files in Java.
+- [JUnit 5](https://junit.org/junit5/) - A popular unit testing framework for the Java programming language.
+- [Sqlite JDBC Driver](https://github.com/xerial/sqlite-jdbc) - A library for accessing and creating SQLite database files in Java.
